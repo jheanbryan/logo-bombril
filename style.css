@@ -8,7 +8,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 15px;
 }
 .div1{
     background-color: red;
